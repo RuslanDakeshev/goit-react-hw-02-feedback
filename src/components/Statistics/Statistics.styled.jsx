@@ -23,7 +23,7 @@ export const Name = styled.span`
 
 export const Rate = styled.span`
   text-align: left;
-  font-size: 32px;
+  font-size: 31px;
   font-weight: 500;
   color: var(--accent);
   
